@@ -24,6 +24,11 @@
   name = "Blog"
   pageRef = "posts"
   weight = 20
+  [main.params]
+    list.groupByYear = false
+    groupByYear = false
+    
+    
 
 [[main]]
   name = "Services"
