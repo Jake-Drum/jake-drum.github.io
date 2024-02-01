@@ -15,7 +15,7 @@ title = "Jacob C. Drum, CPA"
 [params.author]
    name = "Jake Drum, CPA, CFP, PFS"
    image = "/img/author.png"
-   headline = "**Tax & Financial Planning**<br>I'm a CPA and financial planner focused on working with<br>real estate investors & small business owners"
+   headline = "**Tax & Financial Planning**<br>I'm a CPA and financial planner focused on working with real estate investors & small business owners"
    bio = "I'm a CPA and financial planner focused on working with real estate investors & small business owners"
    links = [
       { email = "mailto:jacob.c.drum@gmail.com" },
@@ -26,7 +26,7 @@ title = "Jacob C. Drum, CPA"
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
-      { Calendly = "https://calendly.com/jacob-c-drum/15min" },
+      { calendly = "https://calendly.com/jacob-c-drum/15min" },
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
