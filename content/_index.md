@@ -2,8 +2,8 @@
 title: "Welcome to Jacob C. Drum, CPA! :tada:"
 description: "This is a demo of the Congo theme for Hugo."
 showDate: false
-list.groupByYear; false
-groupByYear; false
+list.groupByYear: false
+groupByYear: false
 ---
 
 
