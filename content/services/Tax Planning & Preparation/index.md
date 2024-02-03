@@ -4,7 +4,9 @@ date: 2019-01-24
 summary: "We offer tax planning and tax preparation services"
 showReadingTime: false
 showDate: false
-thumbnail: "tax-prep.jpg"
+thumbnail: "img/tax-prep.jpg"
 ---
+
+![Tax Services](img/tax-prep.jpg)
 
 [Tax Services explained]
