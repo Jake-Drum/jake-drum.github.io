@@ -1,7 +1,9 @@
 ---
 title: "How I Serve My Clients"
 description: "See what's possible with Congo."
-
+groupByYear: false
+showDate: false
+showAuthor: true
 cascade:
   showEdit: false
   showSummary: true
