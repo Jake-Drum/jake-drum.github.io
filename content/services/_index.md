@@ -1,6 +1,6 @@
 ---
 title: "How I Serve My Clients"
-description: "See what's possible with Congo."
+description: "list of services I offer my clients."
 groupByYear: false
 showDate: false
 showAuthor: true
