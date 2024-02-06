@@ -7,7 +7,7 @@ groupByYear: false
 ---
 
 
-Explore the [Blog]({{< ref "posts" >}}) to get a feel for my holistic approach to financial planning, investments, and tax. If you like what you see, check out the [Services]({{< ref "services" >}}) I offer learn more about working with me.
+Explore the [Blog]({{< ref "posts" >}}) to get a feel for my holistic approach to financial planning, investments, and tax. If you like what you see, check out the [Services]({{< ref "services" >}}) I offer to learn more about working with me.
 
 <br>
 

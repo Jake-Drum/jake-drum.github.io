@@ -1,6 +1,6 @@
 ---
 title: "Financial Planning"
 date: 2019-01-24
-summary: "We offer tax planning and tax preparation services"
+summary: "Comprehensive Financial Planning: Retirement, Education, Insurance, In Coordination With Our Investment & Tax Services"
 showReadingTime: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tax Services"
 date: 2019-01-24
-summary: "Tax Planning and Tax Preparation Services"
+summary: "Tax Planning Strategies To Defer, Reduce, And Eliminate Taxes, Along With Tax Return Preparation Services"
 showReadingTime: false
 showDate: false
 weight: 10
