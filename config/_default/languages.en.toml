@@ -15,7 +15,7 @@ title = "Jacob C. Drum, CPA"
 [params.author]
    name = "Jake Drum, CPA, CFP, PFS"
    image = "/img/author.png"
-   headline = "**Tax & Financial Planning**<br>I'm a CPA and financial planner focused on working with real estate investors & small business owners"
+   headline = "**Tax & Accounting**<br>I'm a CPA and financial planner focused on working with real estate investors & small business owners"
    bio = "I'm a CPA and financial planner focused on working with real estate investors & small business owners"
    links = [
       { email = "mailto:jacob.c.drum@gmail.com" },
