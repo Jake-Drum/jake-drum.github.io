@@ -1,7 +1,7 @@
 ---
 title: "Tax Services"
 date: 2019-01-24
-summary: "Tax Planning Strategies To Defer, Reduce, And Eliminate Taxes, Along With Tax Return Preparation Services"
+summary: "Tax planning strategies to defer, reduce, and eliminate taxes. Tax return preparation services that are accurate and on-time. We utilize technology to make the process as painless as possible"
 showReadingTime: false
 showDate: false
 weight: 10

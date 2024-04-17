@@ -1,6 +1,6 @@
 ---
 title: "Accounting & Bookkeeping Services"
 date: 2019-01-24
-summary: "Comprehensive Business, Personal, & Investment Accounting Services. We do your bookkeeping and payroll, and also provide CFO services that allow you to better understand how your business is doing and make better financial decisions"
+summary: "Accounting services that give you the information needed to make strategic decisions. We offer bookkeeping and payroll so you can delegate and focus on running your business"
 showReadingTime: false
 ---
