@@ -5,7 +5,8 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main
+      - simple-start
+      #- main
 
 jobs:
   build-deploy:
