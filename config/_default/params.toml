@@ -9,7 +9,7 @@ colorScheme = "Ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
 enableImageWebp = true
