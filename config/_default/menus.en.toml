@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Client Login"
-  url = "portal.jakedrum.com"
+  url = "https://portal.jakedrum.com"
   weight = 10
   [main.params]
     icon = "" 
