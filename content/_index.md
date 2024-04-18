@@ -1,13 +1,13 @@
 ---
 title: "Welcome to Jacob C. Drum, CPA!"
-description: "This is a demo of the Congo theme for Hugo."
+description: Real Estate Tax CPA
 showDate: false
 list.groupByYear: false
 groupByYear: false
 ---
 
 
-Explore the [Blog]({{< ref "posts" >}}) to get a feel for my holistic approach to accounting, tax planning, and tax return preparation. If you like what you see, check out the [Services]({{< ref "services" >}}) I offer to learn more about working with me.
+I take a holistic approach to accounting, tax planning, and tax return preparation. Check out the [Services]({{< ref "services" >}}) I offer to learn more about working with me.
 
 <br>
 
