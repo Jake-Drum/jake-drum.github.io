@@ -18,7 +18,7 @@ layout: ""
 ![Tax returns](tax-prep.jpg) 
 
 ## **Tax Planning**
-We specialize in personalized tax planning for real estate investors and business owners. We first review your entire financial picture; true tax and business planning has to be done with a holistic approach. This is why we like to incorporate accounting, advisory and bookkeeping along with our tax services. After our review we then educate you on the tax strategies we recommend so that you understand the strategy and the resulting tax benefits.
+We specialize in personalized tax planning for real estate investors and business owners. We first review your entire financial picture; true tax planning has to be done with a holistic approach. This is why we like to incorporate accounting, advisory and bookkeeping along with our tax services. After our review we then educate you on the tax strategies we recommend so that you understand the strategy and the resulting tax benefits.
 
 ## **Tax Return Preparation** 
 We help you minimize tax preparation hassles with our tech forward approach. Utilize our online client portal to easily upload and store all of your important tax documents, and access prior year returns when needed.
