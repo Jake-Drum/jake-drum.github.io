@@ -5,6 +5,7 @@ theme = "congo"
 
 # baseURL = "https://jakedrum.com/"
 defaultContentLanguage = "en"
+googleAnalytics = "G-MEASUREMENT_ID"
 
 enableRobotsTXT = true
 paginate = 10
