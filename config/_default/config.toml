@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 googleAnalytics = "G-793EC4VFMR"
 
 enableRobotsTXT = true
-pagination.pagerSize = 10
+pagerSize = 10
 summaryLength = 0
 
 [outputs]
