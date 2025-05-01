@@ -1,6 +1,4 @@
 {{ if .Get "default" }}
-  {{ template "swatches.html" . }}
-{{ else }}
   {{ $url := urls.Parse (.Get "src") }}
   {{ $altText := .Get "alt" }}
   {{ $caption := .Get "caption" }}
