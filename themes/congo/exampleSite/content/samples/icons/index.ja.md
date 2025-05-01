@@ -21,6 +21,7 @@ Congo は[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | apple                | {{< icon apple >}}                |
 | bars                 | {{< icon bars >}}                 |
 | blogger              | {{< icon blogger >}}              |
+| bluesky              | {{< icon bluesky >}}              |
 | bug                  | {{< icon bug >}}                  |
 | check                | {{< icon check >}}                |
 | chevron-down         | {{< icon chevron-down >}}         |
@@ -45,6 +46,7 @@ Congo は[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | instagram            | {{< icon instagram >}}            |
 | keybase              | {{< icon keybase >}}              |
 | kickstarter          | {{< icon kickstarter >}}          |
+| kofi                 | {{< icon kofi >}}                 |
 | lastfm               | {{< icon lastfm >}}               |
 | lightbulb            | {{< icon lightbulb >}}            |
 | line                 | {{< icon line >}}                 |
@@ -85,4 +87,5 @@ Congo は[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | whatsapp             | {{< icon whatsapp >}}             |
 | x-twitter            | {{< icon x-twitter >}}            |
 | xmark                | {{< icon xmark >}}                |
+| xing                 | {{< icon xing >}}                 |
 | youtube              | {{< icon youtube >}}              |
