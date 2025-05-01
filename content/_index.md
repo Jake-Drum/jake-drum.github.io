@@ -7,7 +7,7 @@ groupByYear: false
 ---
 
 
-I take a holistic approach to accounting, tax planning, and tax return preparation. Check out the [Services]({{< ref "services" >}}) I offer to learn more about working with me.
+I take a holistic approach to accounting, tax planning, and tax return preparation. Check out the [Services](https://lakeview-cpa.com/) I offer to learn more about working with me.
 
 <br>
 
