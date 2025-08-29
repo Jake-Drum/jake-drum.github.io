@@ -18,13 +18,13 @@
         >{{ i18n "nav.skip_to_main" }}</a
       >
     </div>
-      {{ $layout := .Site.Params.header.layout | default "basic" }}
-      {{ $header := print "header/" $layout ".html" }}   <!-- remove 'partials/' prefix -->
-      {{ if partialExists $header }}
+      {{ $header := print "partials/header/" .Site.Params.header.layout ".html" }}
+      {{ if templates.Exists $header }}
         {{ partial $header . }}
       {{ else }}
-        {{ partial "header/basic.html" . }}
+        {{ partial "partials/header/basic.html" . }}
       {{ end }}
+
 
     <div class="relative flex grow flex-col">
       <main id="main-content" class="grow">
